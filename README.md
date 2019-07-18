@@ -37,7 +37,7 @@ A aplicação também disponibiliza um dashboard com informações mais detalhad
 A expectativa da equipe é receber as informações abaixo:
 * Fluxos mostrando a jornada do usuário;
 * Wireframes, mockups e protótipos de alta fidelidade;
-* Telas baseadas nos componentes do Material-UI;
+* Design baseado em componentes do Material-UI;
 * Aplicação de princípios de usabilidade.
 
 ## Compartilhando o Resultado
