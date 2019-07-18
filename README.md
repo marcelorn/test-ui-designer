@@ -4,7 +4,7 @@ Você foi contratado para elaborar o design da aplicação de previsão do tempo
 
 ## Descrição da Aplicação
 
-O objetivo é prover ao usuário uma interface em que ele possa vizualizar as informações de previsão do tempo para pontos georreferenciados em um mapa. No mapa serão exibidos os pontos em que existe previsão do tempo disponível e o usuário poderá selecionar o ponto para visualizar a previsão do tempo para 7 dias, que aparece sobre o mapa. O usuário poderá trocar o ponto e assim visualizar as previsões de diferentes regiões do mapa.
+O objetivo é prover ao usuário uma interface em que ele possa visualizar as informações de previsão do tempo para pontos georreferenciados em um mapa. No mapa serão exibidos os pontos em que existe previsão do tempo disponível e o usuário poderá selecionar o ponto para visualizar a previsão do tempo para 7 dias, que aparece sobre o mapa. O usuário poderá trocar o ponto e assim visualizar as previsões de diferentes regiões do mapa.
 A aplicação também disponibiliza um dashboard com informações mais detalhadas da previsão do tempo diária (7 dias) e horária (48 horas), a partir de gráficos, onde o usuário poderá verificar o comportamento das variáveis ao longo do tempo de forma visual. O dashboard detalhado pode ser acessado a partir do mapa e o usuário poderá retornar ao mapa a partir do dashboard.
 
 ## Requisitos:
@@ -40,3 +40,5 @@ A expectativa da equipe é receber as informações abaixo:
 * Telas baseadas nos componentes do Material-UI;
 * Aplicação de princípios de usabilidade.
 
+## Compartilhando o Resultado
+Depois de finalizar o trabalho, coloque o resultado em um repositório git privado (GitHub, BitBucket e GitLab oferecem repositórios privados para contas gratuitas) e dê permissão de acesso à pessoa responsável pelo processo de seleção.
